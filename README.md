@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CS50’s Web Programming with Python and JavaScript**
 
-- 👨‍💻 I want to start learning **Tensorflow, Rust, Mobile Dev.**
+- 👨‍💻 I want to start learning **.NET, Tensorflow, Rust, Mobile Dev.**
 
 - 📫 How to reach me **mail@samiyousef.ca**
 
