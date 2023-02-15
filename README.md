@@ -26,6 +26,7 @@ Rust       1 min           ███████████░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<small style="font-size: 0.5rem">Updated daily at 00:00 UTC</small>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
