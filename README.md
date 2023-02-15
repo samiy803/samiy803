@@ -17,6 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 16 August 2022 - To: 14 February 2023
+
+Total Time: 3 mins
+
 Markdown   2 mins          ██████████████░░░░░░░░░░░   56.57 %
 Rust       1 min           ███████████░░░░░░░░░░░░░░   43.43 %
 ```
