@@ -17,8 +17,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 mins
-
 Markdown   2 mins          ██████████████░░░░░░░░░░░   56.57 %
 Rust       1 min           ███████████░░░░░░░░░░░░░░   43.43 %
 ```
