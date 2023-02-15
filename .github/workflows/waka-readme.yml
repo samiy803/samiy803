@@ -16,4 +16,3 @@ jobs:
           TIME_RANGE: last_6_months
           SHOW_MASKED_TIME: true
           LANG_COUNT: 8
-          SHOW_TITLE: TRUE
