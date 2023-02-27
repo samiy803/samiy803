@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.samiyousef.ca/rss"
-          template: "- [$title]($url)$newline$newline"
+          template: "$newline- [$title]($url)$newline"
