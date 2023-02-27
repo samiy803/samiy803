@@ -35,6 +35,9 @@ Bash         40 mins         ▒░░░░░░░░░░░░░░░░
 
 <h3 align="left">📝 Recent Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Building a Full Backend in Rust: TurboCore](https://blog.samiyousef.ca/building-a-full-backend-in-rust-turbocore/)
+- [Secure your network with Cloudflare Tunnels](https://blog.samiyousef.ca/secure-your-network-with-cloudflare-tunnels/)
+- [Top Backend-as-a-Service Solutions &lpar;BaaS&rpar; in 2023](https://blog.samiyousef.ca/comparing-backend-as-a-service-solutions-a-complete-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
