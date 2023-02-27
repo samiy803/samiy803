@@ -34,6 +34,7 @@ Bash         40 mins         ▒░░░░░░░░░░░░░░░░
 <sup>Updated daily at 00:00 UTC</sup>
 
 <h3 align="left">📝 Recent Blog Posts:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Building a Full Backend in Rust: TurboCore](https://blog.samiyousef.ca/building-a-full-backend-in-rust-turbocore/)
 
