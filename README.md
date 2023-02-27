@@ -13,7 +13,7 @@
 
 - 📝 My blog: [Sami Yousef's Blog](https://blog.samiyousef.ca)
 
-<h3 align="left">Coding metrics:</h3>
+<h3 align="left">📊 Coding metrics:</h3>
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,6 +32,10 @@ Bash         40 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 <sup>Updated daily at 00:00 UTC</sup>
+
+<h3 align="left">📝 Recent Blog Posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
