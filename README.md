@@ -36,6 +36,8 @@ TOML         2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░
 <h3 align="left">📝 Recent Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Server Hardening: The Ultimate Guide](https://blog.samiyousef.ca/server-hardening-the-ultimate-guide/)
+
 - [Building a Full Backend in Rust: TurboCore](https://blog.samiyousef.ca/building-a-full-backend-in-rust-turbocore/)
 
 - [Secure your network with Cloudflare Tunnels](https://blog.samiyousef.ca/secure-your-network-with-cloudflare-tunnels/)
