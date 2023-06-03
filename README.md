@@ -16,7 +16,7 @@
 <h3 align="left">📊 Coding metrics:</h3>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 205 hrs 15 mins
 
 Rust         60 hrs 47 mins  ███████▒░░░░░░░░░░░░░░░░░   29.62 %
