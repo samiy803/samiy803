@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          API_BASE_URL: https://wakapi.samiyousef.ca/api
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
